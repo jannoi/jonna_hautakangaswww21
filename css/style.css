@@ -26,6 +26,7 @@ address {
 dl {
     font-size: 14px;
     text-decoration-line: underline;
+    font-weight: bolder;
 }
 a {
     color: maroon;
@@ -42,9 +43,9 @@ div.topnav {
     background-color: rgba(185, 185, 185, 0.719);
     text-align: center;
 }
-figure {
-    border: 1px #cccccc solid;
-    padding: 4px;
-    text-align: right;
-  }
-  
+figcaption {
+    text-align: center;
+}
+video {
+    align-items: center;
+}
