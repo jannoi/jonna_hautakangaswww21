@@ -23,7 +23,7 @@
     align-items: stretch;
 
 }
-.leftbar, .rightbar {
+.leftbar, .rightbar, dl {
     background-color: rgb(190, 186, 126);
     min-height: 500px;
     width: 100px;
