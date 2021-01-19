@@ -15,15 +15,19 @@
     padding: 2px;
     color:rgb(66, 65, 80);
 }
+.etu {
+    text-align: center;
+}
 .flexgrowcon {
     display: flex;
     align-items: stretch;
 
 }
-.leftbar, .rightbar {
+leftbar, rightbar {
     background-color: rgb(190, 186, 126);
     min-height: 500px;
     width: 100px;
+    
 }
 footer {
     background-color: rgb(190, 186, 126);
@@ -37,6 +41,13 @@ body {
 li > a {
     color:rgb(37, 37, 37);
     text-decoration:none ;
+}
+a:visited {
+    color:rgb(71, 88, 30);
+}
+a:hover {
+    font-style: italic;
+    color:rgb(42, 73, 42);
 }
 h1 {
     text-align: center;
