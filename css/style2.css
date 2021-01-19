@@ -12,8 +12,8 @@
 }
 .menu > li {
     list-style:none;
-    padding: 2px;
     color:rgb(66, 65, 80);
+    padding: 0.25em;
 }
 .etu {
     text-align: center;
@@ -23,7 +23,7 @@
     align-items: stretch;
 
 }
-.leftbar, .rightbar, dl {
+.leftbar, .rightbar{
     background-color: rgb(190, 186, 126);
     min-height: 500px;
     width: 100px;
@@ -31,8 +31,9 @@
 }
 footer {
     background-color: rgb(190, 186, 126);
-    height: 40px;
+    height: 35px;
     text-align: center;
+    padding-top: 1em;
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -40,7 +41,7 @@ body {
 }
 li > a {
     color:rgb(37, 37, 37);
-    text-decoration:none ;
+    text-decoration: none;
 }
 a:visited {
     color:rgb(71, 88, 30);
