@@ -1,6 +1,7 @@
 .wrapper {
     margin: auto;
     width: 1280px;
+    align-items: center;
 }
 
 .topmenu {
@@ -8,7 +9,7 @@
     flex-flow: row wrap;
     justify-content: flex-end;
     margin: 0;
-    background-color: rgb(190, 186, 126);;
+    background-color: rgb(190, 186, 126);
 }
 .menu > li {
     list-style:none;
@@ -55,3 +56,8 @@ h1 {
     font-size: 20px;
     font-family:sans-serif;
 }
+.kuva {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }

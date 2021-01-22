@@ -1,0 +1,41 @@
+h1 {
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:darkolivegreen;
+    text-align: center;
+    padding-top: 1.5em;
+}
+
+h2 {
+    font-size: 1em;
+}
+li > a {
+    color:rgb(37, 37, 37);
+    text-decoration: none;
+    font-size: 14px;
+}
+a:visited {
+    color:rgb(71, 88, 30);
+}
+a:hover {
+    font-style: italic;
+    color:rgb(42, 73, 42);
+}
+.form-inline {
+    align-items: center;
+}
+.keski {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+ .footer {
+    background-color: rgb(190, 186, 126);
+    min-height: 40px;
+    text-align: center;
+    font-size: 12px;
+}
+.img-responsive {
+    width: 100%;
+}
